@@ -2,16 +2,76 @@
     "relogin_every_loop": false,
     "reserve": [
 
-        {
-            "username": "",
-            "password": "",
-            "times": ["09:00", "23:00"],
-            "roomid": "13484",
-            "seatid": ["356"],
-            "seatPageId": "13484",
-            "fidEnc": "4a18e12602b24c8c",
-            "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-        }
+    {
+        "username": "",
+        "password": "",
+        "times": ["14:30", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Monday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["09:30", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Tuesday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["14:30", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Wednesday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["09:30", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Thursday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["09:30", "18:30"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Friday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["09:30", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Saturday"]
+    },
+    {
+        "username": "",
+        "password": "",
+        "times": ["19:00", "22:00"],
+        "roomid": "13501",
+        "seatid": ["307"],
+        "seatPageId": "13501",
+        "fidEnc": "4a18e12602b24c8c",
+        "daysofweek": ["Sunday"]
+    }
     ],
 
     "strategy": {
